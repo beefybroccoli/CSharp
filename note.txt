@@ -1,0 +1,1 @@
+﻿source : https://app.pluralsight.com/player?course=csharp-6-from-scratch&author=jesse-liberty&name=csharp-6-from-scratch-m7&clip=2&mode=live
