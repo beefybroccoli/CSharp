@@ -5,8 +5,7 @@ using System.Text;
 namespace LearnCSharp
 {
     class program
-    { 
-    
+    {     
         static void Main(string[] args)
         {
             Common.demo_switch();
